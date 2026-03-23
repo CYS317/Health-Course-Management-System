@@ -56,12 +56,12 @@ This is the main page of the system where users can access the platform and star
 
 ![Figure 3 - Home Page](assets/images/HomePage.png)
 
-**Figure 4: About Us Page**  
+**Figure 4: About Us Page 1**  
 This page provides information about the health courses and coaches available in the system.
 
 ![Figure 4 - About Us Page](assets/images/AboutUsPage1.png)
 
-**Figure 5: About Us Page**  
+**Figure 5: About Us Page 2**  
 Additional information about courses, coaches, and health training programs.
 
 ![Figure 5 - About Us Page](assets/images/AboutUsPage2.png)
