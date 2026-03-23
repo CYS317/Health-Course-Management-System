@@ -108,6 +108,4 @@ The full source code is available in this repository.
 
 ## Author
 
-Developed as part of a Web Development course project.
-
-Chong Yu Shuang
+Developed by Chong Yu Shuang.
